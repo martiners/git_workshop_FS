@@ -1,0 +1,1 @@
+usethis::use_git() # to connect repo with remote. 2 questions, yes to both.
